@@ -1,0 +1,9 @@
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\bin\Debug\license.txt
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\obj\Debug\ResolveAssemblyReference.cache
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\obj\Debug\WinFormsUI.csproj.GenerateResource.Cache
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\BENBUN_CODE\HL7V2App\P1\P1\WinFormsUI\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
