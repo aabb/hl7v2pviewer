@@ -1,9 +1,0 @@
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\bin\Debug\P1.exe
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\bin\Debug\P1.pdb
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\obj\Debug\ResolveAssemblyReference.cache
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\obj\Debug\P1.Form1.resources
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\obj\Debug\P1.Properties.Resources.resources
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\obj\Debug\P1.csproj.GenerateResource.Cache
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\obj\Debug\P1.exe
-d:\Documents and Settings\rmk\Local Settings\Application Data\Temporary Projects\P1\obj\Debug\P1.pdb
