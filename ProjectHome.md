@@ -1,0 +1,1 @@
+A clone of the existing HL7 V2 profile viewer. This version is to be developed using C# on the .NET platform.
